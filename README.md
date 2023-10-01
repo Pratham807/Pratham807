@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pratham singh 
+- 👀 I’m interested in Development 
+- 🌱 I’m currently learning javascript 
+- 💞️ I’m looking to collaborate on javascript projects 
+- 📫 How to reach me thakurpratham809@gmail.com
